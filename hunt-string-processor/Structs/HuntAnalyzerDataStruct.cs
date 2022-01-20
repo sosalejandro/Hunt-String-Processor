@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hunt_string_processor
+namespace HuntProcessor.Structs
 {
     public struct HuntAnalyzerDataStruct
     {

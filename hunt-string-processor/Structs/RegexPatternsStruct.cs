@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hunt_string_processor
+namespace HuntProcessor.Structs
 {
-    public struct RegexPatternsStruct
+    internal record struct RegexPatternsStruct
     {
         public readonly string PlayerPattern;
         public readonly string LootPattern;
